@@ -67,7 +67,7 @@ abstract class Zh_TWLocalise
 	 */
 	public static function getLowerLimitSearchWord()
 	{
-		return 3;
+		return 2;
 	}
 
 	/**
